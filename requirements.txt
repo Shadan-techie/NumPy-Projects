@@ -1,2 +1,4 @@
 ipykrenel
 numpy
+pillow
+matplotlib
