@@ -17,7 +17,17 @@ Builds a matrix calculator capable of:
 
 ---
 
-### 2. 🖼️ Image Processing with NumPy
+### 2. 🎲 Dice Roll Simulation
+Simulates 100,000 rolls of two dice:
+- Visualize outcome frequency
+- Calculate probability of each sum
+
+📂 `dice_roll_simulation/`  
+📄 Focus: NumPy random generation, histograms, statistical insight.
+
+---
+
+### 3. 🖼️ Image Processing with NumPy
 Applies basic image processing using NumPy:
 - Convert RGB to Grayscale
 - Flip horizontally/vertically
@@ -29,7 +39,7 @@ Applies basic image processing using NumPy:
 
 ---
 
-### 3. 🌦️ Weather Data Analysis
+### 4. 🌦️ Weather Data Analysis
 Simulates and analyzes temperature data:
 - Calculate average, max/min temperature
 - Identify hottest/coldest days
@@ -40,27 +50,7 @@ Simulates and analyzes temperature data:
 
 ---
 
-### 4. 🎲 Dice Roll Simulation
-Simulates 100,000 rolls of two dice:
-- Visualize outcome frequency
-- Calculate probability of each sum
-
-📂 `dice_roll_simulation/`  
-📄 Focus: NumPy random generation, histograms, statistical insight.
-
----
-
-### 5. 🔢 Sudoku Validator
-Checks if a completed Sudoku grid is valid:
-- Row, column, and sub-grid checks
-- Uses slicing, reshaping, and set comparisons
-
-📂 `sudoku_validator/`  
-📄 Focus: Logical checks using NumPy indexing.
-
----
-
-### 6. 📈 Stock Price Simulator
+### 5. 📈 Stock Price Simulator
 Generates stock price trends using:
 - Geometric Brownian Motion
 - Monte Carlo-style randomness
@@ -70,7 +60,7 @@ Generates stock price trends using:
 
 ---
 
-### 7. 📊 Custom Statistics Calculator
+### 6. 📊 Custom Statistics Calculator
 Implements common statistics manually:
 - Mean, median, mode
 - Standard deviation, percentiles
@@ -78,6 +68,16 @@ Implements common statistics manually:
 
 📂 `statistics_calculator/`  
 📄 Helps you practice both built-in and manual NumPy stat functions.
+
+---
+
+### 7. 🔢 Sudoku Validator
+Checks if a completed Sudoku grid is valid:
+- Row, column, and sub-grid checks
+- Uses slicing, reshaping, and set comparisons
+
+📂 `sudoku_validator/`  
+📄 Focus: Logical checks using NumPy indexing.
 
 ---
 
